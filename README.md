@@ -5,10 +5,10 @@ The following files/ modules are involved:
 1. Supplier details 
 - i. update supplier
 - ii. delete supplier
--iii. add new supplier
+- iii. add new supplier
 2. medicine details
 - i. update medicine
--ii. delete medicine
--iii. add new medicine
+- ii. delete medicine
+- iii. add new medicine
 3. Daily purchase Report
 4. Supplier wise medicine report
